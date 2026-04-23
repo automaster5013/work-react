@@ -1,0 +1,21 @@
+{
+  "name": "work-react",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/automaster5013/work-react#readme",
+  "bugs": {
+    "url": "https://github.com/automaster5013/work-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/automaster5013/work-react.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "sample.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
